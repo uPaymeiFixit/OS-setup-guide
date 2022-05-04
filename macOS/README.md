@@ -26,9 +26,12 @@
             Set time zone automatically using current location -> [x]
 
 ## Manual Installs
-nix-env
-
-logitech options
+- nix-env
+- logitech options
+- Parallels
+- CleanMyMacX
+- Adobe Photoshop
+- Infuse Video Player
 
 ## Brew
 Manually install [brew](https://brew.sh/)
